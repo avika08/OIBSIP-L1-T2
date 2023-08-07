@@ -2,12 +2,14 @@
 This repository contains the source code for a personal portfolio website created by Avika. The website showcases Avika's skills, projects, and contact information. The website is built using HTML and CSS and is designed to be responsive and visually appealing.
 
 Technologies Used-
+
 1- HTML
 2- CSS
 3- Boxicons for icons
 4- Google Fonts (Montserrat and Poppins)
 
 Website Sections-
+
 1- Home: The landing page with a welcome message, Avika's name, title, and a call-to-action button.
 2- About: A section detailing Avika's background, skills, and interests.
 3- Services: Highlights Avika's programming skills and services she offers.
