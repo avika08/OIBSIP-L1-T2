@@ -11,9 +11,14 @@ Technologies Used-
 Website Sections-
 
 1- Home: The landing page with a welcome message, Avika's name, title, and a call-to-action button.
+
 2- About: A section detailing Avika's background, skills, and interests.
+
 3- Services: Highlights Avika's programming skills and services she offers.
+
 4- Portfolio: Displays certificates and visual design projects.
+
 5- Contact: Provides contact details and a contact form for reaching out to Avika.
+
 
 Feel free to fork the repository for your own portfolio.
